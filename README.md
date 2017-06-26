@@ -7,7 +7,7 @@ The repo contains the course project. It consists of three files. The code file 
 1. The **run_analysis.R** script will create a folder named **data**.
 2. Download and extract the data files.
 3. Do some data analysis.
-4. Save the tidy data set in **tidydataout.csv** file in **data** folder.
+4. Save the tidy data set in **tidydataout.txt** file in **data** folder.
 
 ### Running the script
 

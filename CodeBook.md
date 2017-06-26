@@ -70,4 +70,4 @@ This file describes the variables, data and the code file named **run_analysis.R
 
 ### Save the new data.frame
 
-1. The tidy data frame is saved in **"tidydataout.csv"** file.
+1. The tidy data frame is saved in **"tidydataout.txt"** file.
